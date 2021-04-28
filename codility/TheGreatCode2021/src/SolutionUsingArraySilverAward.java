@@ -1,3 +1,8 @@
+/* Codility Award
+
+https://app.codility.com/cert/view/certKFH8K5-JCNFEUFUU58A3YXF/details/
+
+*/
 public class SolutionUsingArraySilverAward {
     public static int solution (int N, int K, int[] A, int[] B, int[] C) {
         /* cakes[n][0] number of flavors/layers, cakes[n][1] last lavor/layer */
